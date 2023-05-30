@@ -1,0 +1,20 @@
+body{
+    width: 0 auto;
+}
+h1{
+    font-size: 30px;
+    color: slateblue;
+    font-weight: bold;
+    text-align: center;
+}
+h2{ font-size:15px;
+    color: rgb(82, 33, 216);
+    text-align: center;
+}
+#visit1{
+    background-color: olivedrab;
+border: 20px solid green;
+padding: 12px;
+border-radius: 20px;
+align-items: center;
+}
